@@ -26,6 +26,8 @@ Based on initial and superficial comparison of the 2 popular platforms, Discord 
 
 # Getting started
 
+For the **quick and impatient**, once you have a GitHub account, please fill out a [form to initiate onboarding and begin the journey](https://forms.gle/ZWMwWXYjgdfWcBBf7)
+
 
 ## Java development environment
 
@@ -54,6 +56,8 @@ Collaboration and code reviews are done on [GitHub](https://www.github.com/), an
 ## Onboarding
 
 There are two main roles in this initiative, the apprentice and the shepherd. This is an apprentice driven program with assistance from shepherd to guide them along the journey.
+
+Once you have the below requisites (a GitHub account), please [fill out a form with the details to onboard](https://forms.gle/ZWMwWXYjgdfWcBBf7)
 
 ### Apprentice
 
