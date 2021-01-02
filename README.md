@@ -8,6 +8,8 @@ Novice programmers would greately benefit by getting code reviewed by more exper
 
 As part of Code Insights Initiative, we offer a collaborative environment novice programmers to learn and master the craft of software development by engaging with professionals.
 
+For the keen and interested, please read the [background leading the code insights initiative](background.md).
+
 # Requirements
 
 The initiative is open to programmers looking forward to enhance their skills and learn the real world requirement from a software developer.
@@ -20,14 +22,14 @@ Slack/Discord are used for initiating the onboarding.
 
 Based on initial and superficial comparison of the 2 popular platforms, Discord appears to help less restrictions and limits for free accounts.
 
-## Getting started
+# Getting started
 
 
-### Java development environment
+## Java development environment
 
 The immdeiate focus of the initiative is to offer a platform for AP Computer Science students. The course uses Java 11 for programming. Please ensure you have a local development environment setup.
 
-### Using git
+## Using git
 
 [`git`](https://git-scm.com) is a distributed version control system. It allows you to keep track of change history across software development. Some of the largest software source code is managed under `git`. The [Linux kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/about/) and [Android source code](https://android.googlesource.com/?format=HTML) are some examples of `git` popularity.
 
@@ -40,18 +42,18 @@ Learning to use `git` is an activity in itself and an extremely useful tool to l
 	* [Installing on Mac OS](https://git-scm.com/download/mac) has 2 options. Apple Xcode has `git` bundled in it OR via [homebrew](https://brew.sh). It is recommended to install it via `brew` since there are other useful tools that can be installed from `brew` later
 	* Building from source for the brave. Building software requires you to install dependency libraries before you can attempt to build. This is a time consuming process, however, it also teaches common paradigms to build, install and use open source software. [`git` source tarball](https://mirrors.edge.kernel.org/pub/software/scm/git/) for released versions of `git` can be downloaded and built
 
-#### Recommendation
+### Recommendation
 Installing a GUI based `git` client like SourceTree is a more gentler introduction to `git`. However, learning to use `git` in the shell (command line) will help you learn and use the full power of `git`
 
-### GitHub account
+## GitHub account
 
 Collaboration and code reviews are done on [GitHub](https://www.github.com/), an online `git` repository hosting service.
 
-### Onboarding
+## Onboarding
 
 There are two main roles in this initiative, the apprentice and the shepherd. This is an apprentice driven program with assistance from shepherd to guide them along the journey.
 
-#### Apprentice
+### Apprentice
 
 Code insights initiative is an organization in GitHub terminology. You must be part of the organization before you can tap into the resources.
 
@@ -60,11 +62,11 @@ Code insights initiative is an organization in GitHub terminology. You must be p
 3. Every apprentince is part of `apprentices` team
 4. Private repositories are private to the apprentice and would require giving explicit `READ` permission to the `shepherds`. If you prefer to pick a specific user to review your code, you can give the individual account permission to `READ` your private repository
 
-##### Attention
+#### Attention
 * Do not give access to all by default. You do not want plagarism and misuse of your hard work
 * When in doubt setting up permissions, please reach out to `admins` OR `shepherds` for help
 
-#### Shepherd
+### Shepherd
 
 Role of an experienced developer is to help guide the apprentice learn and acquire the important skills that are usually not documented in a structured manner. We are reaching out to developers in software industry to help by contributing their time and expertise to review code and provide feedback that helps an apprentice to develop different perspectives around the code they write. Parents of aspiring `apprentices` are a very good source of `shepherds`.
 
@@ -78,6 +80,9 @@ An aspiring shepherd willing to help would need the following
 * It is highly desirable if `shepherds` are willing to impart knowledge through occasional video calls. This will help a larger group of `apprentices` benefit as against depending solely on individual reviews.
 
 ## Workflows
+TBD
 
 
 # Additional links
+
+* [Story behind the initiative](background.md): This is my story leading to starting this initiative. Would love to hear more stories that led to people joining this initiative. Contributions are welcome, we will publish them here.
