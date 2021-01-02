@@ -10,6 +10,8 @@ As part of Code Insights Initiative, we offer a collaborative environment novice
 
 For the keen and interested, please read the [background leading the code insights initiative](background.md).
 
+You can reach us through contact details provided in our [**About**](about.md) page
+
 # Requirements
 
 The initiative is open to programmers looking forward to enhance their skills and learn the real world requirement from a software developer.
@@ -86,3 +88,4 @@ TBD
 # Additional links
 
 * [Story behind the initiative](background.md): This is my story leading to starting this initiative. Would love to hear more stories that led to people joining this initiative. Contributions are welcome, we will publish them here.
+* [People behind the initiative](about.md): These are the apprentices and shepherds that are making this initiative possible.
