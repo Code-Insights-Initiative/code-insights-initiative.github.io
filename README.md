@@ -6,7 +6,7 @@ Aspiring software developers start with learning to code with a focus on masteri
 
 Novice programmers would greately benefit by getting code reviewed by more experienced developers. Understanding the tradeoffs across different implementations from performance, extensibility and maintainability offers a more enriching experience in the path to learning software development.
 
-As part of Code Insights Initiative, we offer a collaborative environment novice programmers to learn and master the craft of software development by engaging with professionals.
+As part of Code Insights Initiative, we offer a collaborative environment for novice programmers to learn and master the craft of software development by engaging with professionals.
 
 For the keen and interested, please read the [background leading the code insights initiative](background.md).
 
